@@ -4,4 +4,4 @@
 
 ## 📖 文章列表
 
-- [从“明文身份泛滥”到“可追责解密”：一种分层身份保护架构的抽象设计](posts/identity-protection.html)
+- [从“明文身份泛滥”到“可追责解密”：一种分层身份保护架构的抽象设计](posts/posts/identity-protection.html)
