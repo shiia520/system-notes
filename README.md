@@ -4,4 +4,4 @@
 
 ## 📖 文章列表
 
-- [从“明文身份泛滥”到“可追责解密”：一种分层身份保护架构的抽象设计](posts/posts/real-name-without-traces.md)
+- [实名不留痕：分层身份保护架构设计](posts/posts/real-name-without-traces.md)
